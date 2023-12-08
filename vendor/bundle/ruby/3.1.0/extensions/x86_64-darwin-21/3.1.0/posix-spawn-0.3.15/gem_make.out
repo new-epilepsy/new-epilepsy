@@ -1,0 +1,23 @@
+current directory: /Users/saratheriver/Desktop/hydejack-starter-kit-9.1.6/vendor/bundle/ruby/3.1.0/gems/posix-spawn-0.3.15/ext
+/usr/local/opt/ruby/bin/ruby -I /usr/local/Cellar/ruby/3.1.1/lib/ruby/3.1.0 -r ./siteconf20231208-8798-el394o.rb extconf.rb
+creating Makefile
+
+current directory: /Users/saratheriver/Desktop/hydejack-starter-kit-9.1.6/vendor/bundle/ruby/3.1.0/gems/posix-spawn-0.3.15/ext
+make DESTDIR\= clean
+
+current directory: /Users/saratheriver/Desktop/hydejack-starter-kit-9.1.6/vendor/bundle/ruby/3.1.0/gems/posix-spawn-0.3.15/ext
+make DESTDIR\=
+compiling posix-spawn.c
+warning: unknown warning option '-Wmisleading-indentation'; did you mean '-Wbinding-in-condition'? [-Wunknown-warning-option]
+posix-spawn.c:226:27: warning: incompatible pointer types passing 'int (VALUE, VALUE, posix_spawn_file_actions_t *)' (aka 'int (unsigned long, unsigned long, void **)') to parameter of type 'int (*)(VALUE, VALUE, VALUE)' (aka 'int (*)(unsigned long, unsigned long, unsigned long)') [-Wincompatible-pointer-types]
+        rb_hash_foreach(options, posixspawn_file_actions_operations_iter, (VALUE)fops);
+                                 ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/usr/local/Cellar/ruby/3.1.1/include/ruby-3.1.0/ruby/internal/intern/hash.h:83:40: note: passing argument to parameter 'func' here
+void rb_hash_foreach(VALUE hash, int (*func)(VALUE key, VALUE val, VALUE arg), VALUE arg);
+                                       ^
+2 warnings generated.
+linking shared-object posix_spawn_ext.bundle
+
+current directory: /Users/saratheriver/Desktop/hydejack-starter-kit-9.1.6/vendor/bundle/ruby/3.1.0/gems/posix-spawn-0.3.15/ext
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 posix_spawn_ext.bundle ./.gem.20231208-8798-dtnd3c

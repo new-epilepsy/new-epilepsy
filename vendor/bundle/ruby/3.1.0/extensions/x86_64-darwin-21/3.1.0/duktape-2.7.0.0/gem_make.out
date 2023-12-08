@@ -1,0 +1,39 @@
+current directory: /Users/saratheriver/Desktop/hydejack-starter-kit-9.1.6/vendor/bundle/ruby/3.1.0/gems/duktape-2.7.0.0/ext/duktape
+/usr/local/opt/ruby/bin/ruby -I /usr/local/Cellar/ruby/3.1.1/lib/ruby/3.1.0 -r ./siteconf20231208-8798-35vwtr.rb extconf.rb
+checking for rb_sym2str()... yes
+creating Makefile
+
+current directory: /Users/saratheriver/Desktop/hydejack-starter-kit-9.1.6/vendor/bundle/ruby/3.1.0/gems/duktape-2.7.0.0/ext/duktape
+make DESTDIR\= clean
+
+current directory: /Users/saratheriver/Desktop/hydejack-starter-kit-9.1.6/vendor/bundle/ruby/3.1.0/gems/duktape-2.7.0.0/ext/duktape
+make DESTDIR\=
+compiling duktape.c
+warning: unknown warning option '-Wmisleading-indentation'; did you mean '-Wbinding-in-condition'? [-Wunknown-warning-option]
+duk_bi_cbor.c:64:73: warning: function 'duk__cbor_encode_error' could be declared with attribute 'noreturn' [-Wmissing-noreturn]
+DUK_LOCAL void duk__cbor_encode_error(duk_cbor_encode_context *enc_ctx) {
+                                                                        ^
+duk_bi_cbor.c:695:73: warning: function 'duk__cbor_decode_error' could be declared with attribute 'noreturn' [-Wmissing-noreturn]
+DUK_LOCAL void duk__cbor_decode_error(duk_cbor_decode_context *dec_ctx) {
+                                                                        ^
+duk_bi_date.c:311:34: warning: implicit conversion loses integer precision: 'unsigned long' to 'duk_uint_fast32_t' (aka 'unsigned int') [-Wshorten-64-to-32]
+                        match_val = (1UL << part_idx) + (1UL << (sep_idx + 9)); /* match against rule part/sep bits */
+                                  ~ ~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~
+duk_bi_json.c:195:69: warning: function 'duk__json_dec_syntax_error' could be declared with attribute 'noreturn' [-Wmissing-noreturn]
+DUK_LOCAL void duk__json_dec_syntax_error(duk_json_dec_ctx *js_ctx) {
+                                                                    ^
+5 warnings generated.
+compiling duktape_ext.c
+warning: unknown warning option '-Wmisleading-indentation'; did you mean '-Wbinding-in-condition'? [-Wunknown-warning-option]
+duktape_ext.c:300:1: warning: function 'raise_ctx_error' could be declared with attribute 'noreturn' [-Wmissing-noreturn]
+{
+^
+duktape_ext.c:625:1: warning: function 'error_handler' could be declared with attribute 'noreturn' [-Wmissing-noreturn]
+{
+^
+3 warnings generated.
+linking shared-object duktape_ext.bundle
+
+current directory: /Users/saratheriver/Desktop/hydejack-starter-kit-9.1.6/vendor/bundle/ruby/3.1.0/gems/duktape-2.7.0.0/ext/duktape
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 duktape_ext.bundle ./.gem.20231208-8798-10l8i1
