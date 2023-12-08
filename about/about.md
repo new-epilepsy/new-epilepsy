@@ -12,7 +12,7 @@ Established in 2023, we are a worldwide organisation of researchers and clinicia
 * Promote and foster collaborations between epilepsy researcher across the world;
 * Put neuroimaging at the forefront of epilepsy research and clinical care;
 * Organise a variety of meetings, seminars, and workshops to contribute to the transfer of knowledge and training of researchers, clinicians, postdoctoral trainees, and students from around the world;
-* Provide opportunities for financial support for researchers and trainees at all stages of their careers, to present their work on neuroimaging of epilepsy; and
+* Provide opportunities for financial support for researchers and trainees at all stages of their careers; and
 * Ensure an equitable ...
 
 Become a [member]{:.heading.flip-title}!
