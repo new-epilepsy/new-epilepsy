@@ -15,7 +15,7 @@ sitemap: false
 <b> Sara Larivière </b> <br /> <i> Founder </i> | <b> Jessica Royer </b> <br /> <i> Co-Founder </i> |
 
 
-![](https://github.com/new-epilepsy/new-epilepsy/blob/main/assets/icons/icon@3x.png?raw=true)  |  ![](https://github.com/new-epilepsy/new-epilepsy/blob/main/assets/icons/icon@3x.png?raw=true) |  ![](https://github.com/new-epilepsy/new-epilepsy/blob/main/assets/icons/icon@3x.png?raw=true) 
+![](https://github.com/new-epilepsy/new-epilepsy/blob/master/assets/img/icon@3x.png?raw=true)  |  ![](https://github.com/new-epilepsy/new-epilepsy/blob/master/assets/img/icon@3x.png?raw=true) |  ![](https://github.com/new-epilepsy/new-epilepsy/blob/master/assets/img/icon@3x.png?raw=true) 
 :-------------------------:|:-------------------------:|:-------------------------:
 <b> Name </b> <br /> <i> Board Member </i> | <b> Name </b> <br /> <i> Board Member </i> | <b> Name </b> <br /> <i> Board Member </i> |
 
