@@ -28,7 +28,7 @@ description:           >
   NEW is a worldwide community of scientists and clinicians interested in neuroimaging of epilepsy
 
 # A shorter description for the sidebar.
-tagline:               Neuroimaging of Epilepsy
+tagline:               Neuroimaging of Epilepsy Worldwide
 
 # A list of keywords for your blog
 keywords:              []
@@ -48,10 +48,10 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Welcome
-    url:               /welcome/
   - title:             About
     url:               /about/
+  - title:             Members
+    url:               /members/
   - title:             What's new
     url:               /new/
   - title:             Community

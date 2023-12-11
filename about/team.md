@@ -12,7 +12,7 @@ sitemap: false
 
 ![](https://github.com/new-epilepsy/website-extras/blob/main/team-photos/sl.png?raw=true){: width="235"}  |  ![](https://github.com/new-epilepsy/website-extras/blob/main/team-photos/jr.png?raw=true){: width="235"} |  
 :-------------------------:|:-------------------------:|:-------------------------:
-<b> Sara Larivière </b> <br /> <i> Founder </i> | <b> Jessica Royer </b> <br /> <i> Co-Founder </i> |
+<b> Sara Larivière, PhD </b> <br /> <i> Founder </i> | <b> Jessica Royer, PsyD </b> <br /> <i> Co-Founder </i> |
 
 
 ![](https://github.com/new-epilepsy/new-epilepsy/blob/master/assets/img/icon@3x.png?raw=true){: width="148"}  |  ![](https://github.com/new-epilepsy/new-epilepsy/blob/master/assets/img/icon@3x.png?raw=true){: width="148"} |  ![](https://github.com/new-epilepsy/new-epilepsy/blob/master/assets/img/icon@3x.png?raw=true){: width="148"} 
@@ -23,7 +23,7 @@ sitemap: false
 
 
 ## Scientific committee
-Boris Bernhardt – <i>McGill University</i> \
+Boris Bernhardt, PhD – <i>McGill University</i> \
 Person - Affiliation \
 Person - Affiliation \
 Person - Affiliation \

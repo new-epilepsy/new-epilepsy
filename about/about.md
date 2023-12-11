@@ -8,17 +8,18 @@ sitemap: false
 permalink: /about/
 ---
 
-Established in 2023, we are a worldwide organisation of researchers and clinicians who are interested in neuroimaging of epilepsy. Our goals are to: 
-* Promote and foster collaborations between epilepsy researcher across the world;
-* Put neuroimaging at the forefront of epilepsy research and clinical care;
-* Organise a variety of meetings, seminars, and workshops to contribute to the transfer of knowledge and training of researchers, clinicians, postdoctoral trainees, and students from around the world;
-* Provide opportunities for financial support for researchers and trainees at all stages of their careers; and
-* Ensure an equitable ...
+### What is NEW?
+Established in 2023, we are a community-powered platform for trainees, researchers, and clinicians interested in learning, sharing, and building their careers in neuroimaging of epilepsy. Our goals are to: 
+* Promote and foster collaborations between epilepsy researcher across the world; 
+* Put neuroimaging at the forefront of epilepsy research and clinical care; 
+* Offer a question-and-answer platform on neuroimaging in epilepsy;
+* Organise a variety of workshops to contribute to the transfer of knowledge on epilepsy and neuroimaging; and
+* Provide opportunities for financial support for researchers and trainees at all stages of their careers
 
-Become a [member]{:.heading.flip-title}!
+<br>
+<hr/>
 
-Our [team]{:.heading.flip-title} is here.
+### Meet the [team]{:.heading.flip-title} behind NEW! 
+We are a diverse team interested in epilepsy and neuroimaging data science. We are always looking for talented and enthusiastic trainees, researchers, and clinicians to join our group! If you are interested in joining, please <a href="mailto:info@new-epilepsy.com">email us</a>.
 
-
-[member]: member.md
 [team]: team.md
