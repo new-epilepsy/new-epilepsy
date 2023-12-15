@@ -20,6 +20,6 @@ Established in 2023, we are a community-powered platform for trainees, researche
 <hr/>
 
 ### Meet the [team]{:.heading.flip-title} behind NEW! 
-We are a diverse team interested in epilepsy and neuroimaging data science. We are always looking for talented and enthusiastic trainees, researchers, and clinicians to join our group! If you are interested in joining, please <a href="mailto:info@new-epilepsy.com">email us</a>.
+We are a diverse team of scientists and clinicians interested in epilepsy and neuroimaging data science. We are always looking for talented and enthusiastic trainees, researchers, and clinicians to join our group! If you are interested in joining, please <a href="mailto:info@new-epilepsy.com">email us</a>.
 
 [team]: team.md
