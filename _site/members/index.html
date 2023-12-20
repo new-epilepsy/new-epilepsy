@@ -37,8 +37,8 @@ Powered by Hydejack v9.1.6 <https://hydejack.com/>
 <meta property="og:title" content="Members" />
 <meta name="author" content="Sara Larivière" />
 <meta property="og:locale" content="en" />
-<meta name="description" content="Why and how to become a member." />
-<meta property="og:description" content="Why and how to become a member." />
+<meta name="description" content="Why and how to become a member of NEW." />
+<meta property="og:description" content="Why and how to become a member of NEW." />
 <link rel="canonical" href="http://localhost:4000/members/" />
 <meta property="og:url" content="http://localhost:4000/members/" />
 <meta property="og:site_name" content="NEW" />
@@ -46,7 +46,7 @@ Powered by Hydejack v9.1.6 <https://hydejack.com/>
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Members" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","author":{"@type":"Person","name":"Sara Larivière"},"dateModified":"2023-12-10T21:19:04-05:00","description":"Why and how to become a member.","headline":"Members","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/img/icon@3x.png"},"name":"Sara Larivière"},"url":"http://localhost:4000/members/"}</script>
+{"@context":"https://schema.org","@type":"WebPage","author":{"@type":"Person","name":"Sara Larivière"},"dateModified":"2023-12-10T21:19:04-05:00","description":"Why and how to become a member of NEW.","headline":"Members","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/img/icon@3x.png"},"name":"Sara Larivière"},"url":"http://localhost:4000/members/"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -109,7 +109,7 @@ Powered by Hydejack v9.1.6 <https://hydejack.com/>
   w._search = {
     DATA_URL: '/assets/sitedata.json?no-cache',
     STORAGE_KEY: 'mini-search/',
-    INDEX_KEY: 'index--2023-12-18T16:17:48-05:00',
+    INDEX_KEY: 'index--2023-12-20T11:31:14-05:00',
   };
   w._clapButton = true;
 }(window);</script>
@@ -205,17 +205,43 @@ html{--accent-color: rgb(79,177,186);--accent-color-faded: rgba(79, 177, 186, 0.
 
   </header>
 
-  <p><br />
-Join countless others in the fastest growing neuroimaging organisation!</p>
-
-<p>It’s free; simply send us an <a href="mailto:info@new-epilepsy.com">email</a> with your name and affiliation.</p>
-
-<h3 id="members-of-new-have-access-to">Members of NEW have access to:</h3>
+  <h3 id="members-of-new-have-access-to">Members of NEW have access to:</h3>
 <ul>
   <li>Our monthly newsletter (neuroimaging news, research highlights, job ads);</li>
   <li>Live participation to meetings, seminars, and workshops; and</li>
   <li>Funding opportunities</li>
 </ul>
+
+<h3 id="join-countless-others-in-the-fastest-growing-neuroimaging-organisation">Join countless others in the fastest growing neuroimaging organisation!</h3>
+
+<p>It’s free; simply fill out your information below:</p>
+
+<form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLSeuYECADwx56674PKl5FkWIMjDVwF77VRIQ6mXeoOGExOlLzw/formResponse?" target="hidden_iframe" onsubmit="submitted=true;">
+  <p class="bolt"><color-blue>First name:</color-blue></p>
+  <input type="text" name="entry.436255725" id="entry.436255725" placeholder="Wilder" size="33" /><br /><br />
+  <p class="bolt"><color-blue>Last name:</color-blue></p>
+  <input type="text" name="entry.1492338189" id="entry.1492338189" placeholder="Penfield" size="33" /><br /><br />
+  <p class="bolt"><color-blue>Email address:</color-blue></p>
+  <input type="text" name="entry.1714310061" id="entry.1714310061" placeholder="wilder-pokes-brains@mni.com" size="33" /><br /><br />
+  <p class="bolt"><color-blue>Affiliation:</color-blue></p>
+  <input type="text" name="entry.152112031" id="entry.152112031" placeholder="Montreal Neurological Institute" size="33" /><br /><br />
+  <input type="submit" value="Submit" />
+</form>
+
+<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<script type="text/javascript">var submitted=false;</script>
+
+<script type="text/javascript">
+$('#gform').on('submit', function(e) {
+  $('#gform *').fadeOut(1000);
+  $("p").fadeOut(500);
+  $('#gform').prepend('Thank you for joining NEW 🥳');
+  });
+</script>
+
 
 </article>
 
