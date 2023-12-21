@@ -10,10 +10,10 @@ permalink: /about/
 
 ### What is NEW?
 Established in 2023, we are a community-powered platform for trainees, researchers, and clinicians interested in learning, sharing, and building their careers in neuroimaging of epilepsy. Our goals are to: 
-* Promote and foster collaborations between epilepsy researcher across the world; 
+* Promote and foster collaborations between epilepsy researchers across the world; 
 * Put neuroimaging at the forefront of epilepsy research and clinical care; 
 * Offer a question-and-answer platform on neuroimaging in epilepsy;
-* Organise a variety of workshops to contribute to the transfer of knowledge on epilepsy and neuroimaging; and
+* Organise workshops to contribute to the transfer of knowledge on epilepsy and neuroimaging; and
 * Provide opportunities for financial support for researchers and trainees at all stages of their careers
 
 <br>
