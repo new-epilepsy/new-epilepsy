@@ -25,7 +25,7 @@ It's free; simply fill out your information below:
   <p class="bolt"><color-blue>Email address:</color-blue><br></p>
   <input type="text" name="entry.1714310061" id="entry.1714310061" placeholder="wilder-pokes-brains@mni.com" size="33"><br>
   <p class="bolt"><color-blue>Affiliation:</color-blue><br></p>
-  <input type="text" name="entry.152112031" id="entry.152112031" placeholder="Montreal Neurological Institute" size="33"><br>
+  <input type="text" name="entry.152112031" id="entry.152112031" placeholder="Montreal Neurological Institute" size="33"><br><br>
   <input type="submit" value="Submit">
 </form>
 
