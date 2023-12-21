@@ -19,13 +19,13 @@ It's free; simply fill out your information below:
 
 <form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLSeuYECADwx56674PKl5FkWIMjDVwF77VRIQ6mXeoOGExOlLzw/formResponse?" target="hidden_iframe" onsubmit="submitted=true;">
   <p class="bolt"><color-blue>First name:</color-blue><br></p>
-  <input type="text" name="entry.436255725" id="entry.436255725" placeholder="Wilder" size="33"><br><br>
+  <input type="text" name="entry.436255725" id="entry.436255725" placeholder="Wilder" size="33"><br>
   <p class="bolt"><color-blue>Last name:</color-blue><br></p>
-  <input type="text" name="entry.1492338189" id="entry.1492338189" placeholder="Penfield" size="33"><br><br>
+  <input type="text" name="entry.1492338189" id="entry.1492338189" placeholder="Penfield" size="33"><br>
   <p class="bolt"><color-blue>Email address:</color-blue><br></p>
-  <input type="text" name="entry.1714310061" id="entry.1714310061" placeholder="wilder-pokes-brains@mni.com" size="33"><br><br>
+  <input type="text" name="entry.1714310061" id="entry.1714310061" placeholder="wilder-pokes-brains@mni.com" size="33"><br>
   <p class="bolt"><color-blue>Affiliation:</color-blue><br></p>
-  <input type="text" name="entry.152112031" id="entry.152112031" placeholder="Montreal Neurological Institute" size="33"><br><br>
+  <input type="text" name="entry.152112031" id="entry.152112031" placeholder="Montreal Neurological Institute" size="33"><br>
   <input type="submit" value="Submit">
 </form>
 
