@@ -35,3 +35,10 @@ td {
 Andrea Bernasconi, MD – <i>McGill University</i><br/>
 Neda Bernasconi, MD, PhD – <i>McGill University</i><br/>
 Boris Bernhardt, PhD – <i>McGill University</i><br/>
+Leonardo Bonilha, MD, PhD – <i>University of South Carolina</i><br/>
+Fernando Cendes, MD, PhD, FAAN, FAES – <i>University of Campinas</i><br/>
+Carrie McDonald, PhD – <i>University of California San Diego</i><br/>
+Frédéric Schaper, MD, PhD – <i>Brigham and Women's Hospital / Harvard Medical School</i><br/>
+Peter Taylor, PhD – <i>Newcastle University</i><br/>
+Britta Wandschneider, MD, PhD – <i>University College London</i><br/>
+Irene Wang, PhD – <i>Cleveland Clinic</i><br/>

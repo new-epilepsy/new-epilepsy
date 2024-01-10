@@ -76,7 +76,7 @@ A list of tools and their source code repositories published on GitHub.
         </div>
         <div class="flip-card-back" style="background-color: rgba(10,135,213,0.88)">
           <br/>
-          <p style="font-size:18px"><a href="https://github.com/NOEL-MNI/deepFCD" style="color: #ffffff">Deep FCD</a></p>
+          <p style="font-size:18px"><a href="https://github.com/NOEL-MNI/deepFCD" target="_blank" style="color: #ffffff">Deep FCD</a></p>
           <p style="font-size:14px">
           Multicenter validated and automated detection of focal cortical dysplasia using deep learning
           </p> 
@@ -92,7 +92,7 @@ A list of tools and their source code repositories published on GitHub.
         </div>
         <div class="flip-card-back" style="background-color: rgba(6,104,185,0.88)">
           <br/>
-          <p style="font-size:18px"><a href="https://github.com/NOEL-MNI/Automated_TLE_Lateralization" style="color: #ffffff">Automated TLE Lateralization</a></p>
+          <p style="font-size:18px"><a href="https://github.com/NOEL-MNI/Automated_TLE_Lateralization" target="_blank" style="color: #ffffff">Automated TLE Lateralization</a></p>
           <p style="font-size:14px">
           An MRI-based machine learning prediction framework to lateralize hippocampal sclerosis in patients
           with temporal lobe epilepsy
@@ -112,7 +112,7 @@ A list of tools and their source code repositories published on GitHub.
         </div>
         <div class="flip-card-back" style="background-color: rgba(8,67,145,0.88)">
           <br/>
-          <p style="font-size:18px"><a href="https://github.com/NOEL-MNI/deepMask" style="color: #ffffff">Deep Mask</a></p>
+          <p style="font-size:18px"><a href="https://github.com/NOEL-MNI/deepMask" target="_blank" style="color: #ffffff">Deep Mask</a></p>
           <p style="font-size:14px">
           Accurate brain segmentation in malformations of cortical development
           </p> 
@@ -128,7 +128,7 @@ A list of tools and their source code repositories published on GitHub.
         </div>
         <div class="flip-card-back" style="background-color: rgba(7,45,101,0.88)">
           <br/>
-          <p style="font-size:18px"><a href="https://github.com/penn-cnt/ieeg-recon" style="color: #ffffff">iEEG-recon</a></p>
+          <p style="font-size:18px"><a href="https://github.com/penn-cnt/ieeg-recon" target="_blank" style="color: #ffffff">iEEG-recon</a></p>
           <p style="font-size:14px">
           A modular pipeline to reconstruct iEEG electrode locations in MRI images
           </p> 
@@ -147,7 +147,7 @@ A list of tools and their source code repositories published on GitHub.
       </div>
       <div class="flip-card-back" style="background-color: rgba(87,107,176,0.88)">
         <br/>
-        <p style="font-size:18px"><a href="https://github.com/MICA-MNI/z-brains" style="color: #ffffff">z-brains</a></p>
+        <p style="font-size:18px"><a href="https://github.com/MICA-MNI/z-brains" target="_blank" style="color: #ffffff">z-brains</a></p>
         <p style="font-size:14px">
         An open software for multimodal lesion mapping in focal epilepsy
         </p> 
@@ -163,7 +163,7 @@ A list of tools and their source code repositories published on GitHub.
       </div>
       <div class="flip-card-back" style="background-color: rgba(53,58,108,0.88)">
         <br/>
-        <p style="font-size:18px"><a href="https://github.com/MELDProject/meld_classifier" style="color: #ffffff">MELD Classifier</a></p>
+        <p style="font-size:18px"><a href="https://github.com/MELDProject/meld_classifier" target="_blank" style="color: #ffffff">MELD Classifier</a></p>
         <p style="font-size:14px">
         A neural network lesion classifier for the MELD project
         </p> 
@@ -182,7 +182,7 @@ A list of tools and their source code repositories published on GitHub.
       </div>
       <div class="flip-card-back" style="background-color: rgba(101,76,117,0.88)">
         <br/>
-        <p style="font-size:18px"><a href="https://github.com/MICA-MNI/BrainStat" style="color: #ffffff">BrainStat</a></p>
+        <p style="font-size:18px"><a href="https://github.com/MICA-MNI/BrainStat" target="_blank" style="color: #ffffff">BrainStat</a></p>
         <p style="font-size:14px">
         A toolbox for statistical analysis of neuroimaging data
         </p> 
