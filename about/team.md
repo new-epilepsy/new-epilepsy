@@ -37,6 +37,9 @@ Neda Bernasconi, MD, PhD – <i>McGill University</i><br/>
 Boris Bernhardt, PhD – <i>McGill University</i><br/>
 Leonardo Bonilha, MD, PhD – <i>University of South Carolina</i><br/>
 Fernando Cendes, MD, PhD, FAAN, FAES – <i>University of Campinas</i><br/>
+Luis Concha, MD, PhD – <i>National Autonomous University of Mexico</i><br/>
+Kathryn Davis, MD, MSTR – <i>University of Pennsylvania</i><br/>
+Matthias Koepp, MD, PhD – <i>UCL Queen Square Institute of Neurology</i><br/>
 Carrie McDonald, PhD – <i>University of California San Diego</i><br/>
 Frédéric Schaper, MD, PhD – <i>Brigham and Women's Hospital / Harvard Medical School</i><br/>
 Peter Taylor, PhD – <i>Newcastle University</i><br/>
