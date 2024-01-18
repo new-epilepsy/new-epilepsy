@@ -39,6 +39,7 @@ Leonardo Bonilha, MD, PhD – <i>University of South Carolina</i><br/>
 Fernando Cendes, MD, PhD, FAAN, FAES – <i>University of Campinas</i><br/>
 Luis Concha, MD, PhD – <i>National Autonomous University of Mexico</i><br/>
 Kathryn Davis, MD, MSTR – <i>University of Pennsylvania</i><br/>
+Simon Keller, PhD – <i>University of Liverpool</i><br/>
 Matthias Koepp, MD, PhD – <i>UCL Queen Square Institute of Neurology</i><br/>
 Carrie McDonald, PhD – <i>University of California San Diego</i><br/>
 Victoria Morgan, PhD – <i>Vanderbilt University</i><br/>
