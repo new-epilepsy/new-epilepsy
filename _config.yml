@@ -36,7 +36,7 @@ keywords:              []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/icon@3x.png
+logo:                  /assets/img/icon@3x_pink.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -54,8 +54,8 @@ menu:
     url:               /members/
   - title:             What's new
     url:               /new/
-  - title:             Community
-    url:               /community/
+  - title:             Discussion board
+    url:               /discussion/
   - title:             Tools
     url:               /tools/    
   - title:             Funding

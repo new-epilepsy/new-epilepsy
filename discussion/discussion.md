@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Community
+title: Discussion board
 description: >
-  Community.
+  Discussion board to discuss things that needs discussing.
 hide_description: true
 sitemap: false
-permalink: /community/
+permalink: /discussion/
 ---
 
 <script src="https://giscus.app/client.js"
