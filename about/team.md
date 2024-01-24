@@ -43,6 +43,7 @@ John Duncan, MBchB, MA, MD – <i>University College London</i><br/>
 Dario Englot, MD, PhD – <i>Vanderbilt University</i><br/>
 Paolo Federico, MD, PhD – <i>University of Calgary</i><br/>
 William Gaillard, MD – <i>Children's National Hospital</i><br/>
+R. Edward Hogan, MD – <i>Washington University in St. Louis</i><br/>
 Simon Keller, PhD – <i>University of Liverpool</i><br/>
 Matthias Koepp, MD, PhD – <i>UCL Queen Square Institute of Neurology</i><br/>
 Carrie McDonald, PhD – <i>University of California San Diego</i><br/>

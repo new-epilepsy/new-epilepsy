@@ -2,7 +2,7 @@
 layout: page
 title: Discussion board
 description: >
-  Discussion board to discuss things that needs discussing.
+  Discussion board to discuss things that need discussing.
 hide_description: true
 sitemap: false
 permalink: /discussion/
