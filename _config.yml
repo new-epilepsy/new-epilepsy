@@ -65,7 +65,7 @@ menu:
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2023. Neuroimaging of Epilepsy Worldwide. All rights reserved.
+copyright:             © 2024. Neuroimaging of Epilepsy Worldwide. All rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
