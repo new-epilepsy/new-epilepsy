@@ -63,46 +63,50 @@ table, th, td {
 <body>
 
 <p>
-A list of tools and their source code repositories published on GitHub.
-<br/> <br/> </p>
+A list of open datasets as well as tools and their source code repositories published on GitHub.
+<br/> </p>
+
+<h2> Open epilepsy datasets </h2>
 
 <table>
   <tr>
-    <th> <br/>
+    <th>
     <div class="flip-card">
       <div class="flip-card-inner">
-        <div class="flip-card-front" style="background-color: rgba(10,135,213,0.13)">
-          <h2 style="color:#0b89d6">Deep FCD</h2> 
+        <div class="flip-card-front" style="background-color: rgba(6,104,185,0.13)">
+          <h2 style="color:#0668b9">ENIGMA-Epilepsy</h2> 
         </div>
-        <div class="flip-card-back" style="background-color: rgba(10,135,213,0.88)">
+        <div class="flip-card-back" style="background-color: rgba(6,104,185,0.88)">
           <br/>
-          <p style="font-size:18px"><a href="https://github.com/NOEL-MNI/deepFCD" target="_blank" style="color: #ffffff">Deep FCD</a></p>
+          <p style="font-size:18px"><a href="https://enigma.ini.usc.edu/ongoing/enigma-epilepsy/" target="_blank" style="color: #ffffff">ENIGMA-Epilepsy</a></p>
           <p style="font-size:14px">
-          Multicenter validated and automated detection of focal cortical dysplasia using deep learning
+          ENIGMA-Epilepsy is dedicated to improving our understanding of in vivo neuroanatomical disruptions in people with epilepsy compared to healthy individuals
           </p> 
         </div>
       </div>
     </div>
     </th>
-    <th> <br/>
+    <th>
     <div class="flip-card">
       <div class="flip-card-inner">
         <div class="flip-card-front" style="background-color: rgba(6,104,185,0.13)">
-          <h2 style="color:#0668b9">Automated TLE Lateralization</h2> 
+          <h2 style="color:#0668b9">ENIGMA Toolbox</h2> 
         </div>
         <div class="flip-card-back" style="background-color: rgba(6,104,185,0.88)">
           <br/>
-          <p style="font-size:18px"><a href="https://github.com/NOEL-MNI/Automated_TLE_Lateralization" target="_blank" style="color: #ffffff">Automated TLE Lateralization</a></p>
+          <p style="font-size:18px"><a href="https://enigma-toolbox.readthedocs.io/" target="_blank" style="color: #ffffff">ENIGMA Toolbox</a></p>
           <p style="font-size:14px">
-          An MRI-based machine learning prediction framework to lateralize hippocampal sclerosis in patients
-          with temporal lobe epilepsy
+          A repository for accessing 100+ ENIGMA statistical maps, visualizing cortical and subcortical surface data
           </p> 
         </div>
       </div>
     </div>
     </th>
   </tr>
+</table>
 
+<h2> Preprocessing tools </h2>
+<table>
   <tr>
     <th>
     <div class="flip-card">
@@ -123,10 +127,10 @@ A list of tools and their source code repositories published on GitHub.
     <th>
     <div class="flip-card">
       <div class="flip-card-inner">
-        <div class="flip-card-front" style="background-color: rgba(7,45,101,0.13)">
-          <h2 style="color:#072d65">iEEG-recon</h2> 
+        <div class="flip-card-front" style="background-color: rgba(8,67,145,0.13)">
+          <h2 style="color:#084391">iEEG-recon</h2> 
         </div>
-        <div class="flip-card-back" style="background-color: rgba(7,45,101,0.88)">
+        <div class="flip-card-back" style="background-color: rgba(8,67,145,0.88)">
           <br/>
           <p style="font-size:18px"><a href="https://github.com/penn-cnt/ieeg-recon" target="_blank" style="color: #ffffff">iEEG-recon</a></p>
           <p style="font-size:14px">
@@ -137,15 +141,73 @@ A list of tools and their source code repositories published on GitHub.
     </div>
     </th>
   </tr>
+  <tr>
+    <th>
+    <div class="flip-card">
+      <div class="flip-card-inner">
+        <div class="flip-card-front" style="background-color: rgba(8,67,145,0.13)">
+          <h2 style="color:#084391">micapipe</h2> 
+        </div>
+        <div class="flip-card-back" style="background-color: rgba(8,67,145,0.88)">
+          <br/>
+          <p style="font-size:18px"><a href="https://micapipe.readthedocs.io/en/latest/" target="_blank" style="color: #ffffff">micapipe</a></p>
+          <p style="font-size:14px">
+           A semi-flexible and robust framework to process MRI images and generate ready to use modality based connectomes
+          </p> 
+        </div>
+      </div>
+    </div>
+    </th>
+  </tr>
+</table>
 
+
+<h2> Postprocessing tools </h2>
+<table>
+  <tr>
+    <th>
+    <div class="flip-card">
+      <div class="flip-card-inner">
+        <div class="flip-card-front" style="background-color: rgba(101,76,117,0.13)">
+          <h2 style="color:#654c75">Deep FCD</h2> 
+        </div>
+        <div class="flip-card-back" style="background-color: rgba(101,76,117,0.88)">
+          <br/>
+          <p style="font-size:18px"><a href="https://github.com/NOEL-MNI/deepFCD" target="_blank" style="color: #ffffff">Deep FCD</a></p>
+          <p style="font-size:14px">
+          Multicenter validated and automated detection of focal cortical dysplasia using deep learning
+          </p> 
+        </div>
+      </div>
+    </div>
+    </th>
+    <th>
+    <div class="flip-card">
+      <div class="flip-card-inner">
+        <div class="flip-card-front" style="background-color: rgba(101,76,117,0.13)">
+          <h2 style="color:#654c75">Automated TLE Lateralization</h2> 
+        </div>
+        <div class="flip-card-back" style="background-color: rgba(101,76,117,0.88)">
+          <br/>
+          <p style="font-size:18px"><a href="https://github.com/NOEL-MNI/Automated_TLE_Lateralization" target="_blank" style="color: #ffffff">Automated TLE Lateralization</a></p>
+          <p style="font-size:14px">
+          An MRI-based machine learning prediction framework to lateralize hippocampal sclerosis in patients
+          with temporal lobe epilepsy
+          </p> 
+        </div>
+      </div>
+    </div>
+    </th>
+  </tr>
+  
   <tr>
   <th>
   <div class="flip-card">
     <div class="flip-card-inner">
-      <div class="flip-card-front" style="background-color: rgba(87,107,176,0.13)">
-        <h2 style="color:#576bb0">z-brains</h2> 
+      <div class="flip-card-front" style="background-color: rgba(101,76,117,0.13)">
+        <h2 style="color:#654c75">z-brains</h2> 
       </div>
-      <div class="flip-card-back" style="background-color: rgba(87,107,176,0.88)">
+      <div class="flip-card-back" style="background-color: rgba(101,76,117,0.88)">
         <br/>
         <p style="font-size:18px"><a href="https://github.com/MICA-MNI/z-brains" target="_blank" style="color: #ffffff">z-brains</a></p>
         <p style="font-size:14px">
@@ -158,10 +220,10 @@ A list of tools and their source code repositories published on GitHub.
   <th>
   <div class="flip-card">
     <div class="flip-card-inner">
-      <div class="flip-card-front" style="background-color: rgba(53,58,108,0.13)">
-        <h2 style="color:#353a6c">MELD Classifier</h2> 
+      <div class="flip-card-front" style="background-color: rgba(101,76,117,0.13)">
+        <h2 style="color:#654c75">MELD Classifier</h2> 
       </div>
-      <div class="flip-card-back" style="background-color: rgba(53,58,108,0.88)">
+      <div class="flip-card-back" style="background-color: rgba(101,76,117,0.88)">
         <br/>
         <p style="font-size:18px"><a href="https://github.com/MELDProject/meld_classifier" target="_blank" style="color: #ffffff">MELD Classifier</a></p>
         <p style="font-size:14px">
@@ -189,9 +251,9 @@ A list of tools and their source code repositories published on GitHub.
       </div>
     </div>
   </div>
-  <br/>
   </th> 
 </tr>
 </table>
+
 </body>
 </html>
