@@ -338,7 +338,7 @@ plugins:
 # ---------------------------------------------------------------------------------------
 
 # Where you proof that you own this site (used by jekyll-seo-tag)
-# google_site_verification: <verification-id>
+google_site_verification: "XrwigrZMqrtTDB4Aocn4MgtbmZee1x6n89WIp_RJ-3g" 
 # -- or --
 # webmaster_verifications:
 #   google:              <verification-id>
@@ -357,11 +357,12 @@ plugins:
 #   admins:              <id>
 
 # Used on index and about sites
-# social:
-#   name:                <firstname> <lastname>
-#   links:
-#     - https://twitter.com/<username>
-#     - https://github.com/<username>
+social:
+  name:                NEW
+  links:
+    - https://twitter.com/NEWepilepsy
+    - https://github.com/new-epilepsy
+  image:               "/assets/img/icon@3x.png"
 
 
 # Plugin Configs
@@ -398,24 +399,21 @@ jekyll_compose:
     drafts:
       layout: post
       description: > 
-        A short ~160 character description of your post for search engines,
-        social media previews, etc.
+        Neuroimaging of Epilepsy Worldwide: Connecting neuroimaging epilepsy researchers together
       image:
-        path: /assets/img/sidebar-bg.jpg
+        path: /assets/img/icon@3x.png
     posts:
       layout: post
       description: > 
-        A short ~160 character description of your post for search engines,
-        social media previews, etc.
+        Neuroimaging of Epilepsy Worldwide: Connecting neuroimaging epilepsy researchers together
       image:
-        path: /assets/img/sidebar-bg.jpg
+        path: /assets/img/icon@3x.png
     projects:
       layout: project
       description: > 
-        A short ~160 character description of your post for search engines,
-        social media previews, etc.
+        Neuroimaging of Epilepsy Worldwide: Connecting neuroimaging epilepsy researchers together
       image:
-        path: /assets/img/sidebar-bg.jpg
+        path: /assets/img/icon@3x.png
       links:
         - title: Project Link
           url: https://example.com
