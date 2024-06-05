@@ -37,6 +37,6 @@ It's free; simply fill out your information below:
 $('#gform').on('submit', function(e) {
   $('#gform *').fadeOut(1000);
   $("p").fadeOut(500);
-  $('#gform').prepend('Thank you for joining NEW 🥳');
+  $('#gform').prepend('Thank you for joining NEW - Our committee will review your membership request and send you a confirmation email shortly 🥳');
   });
 </script>
