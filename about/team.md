@@ -48,6 +48,7 @@ Simon Keller, PhD – <i>University of Liverpool</i><br/>
 Matthias Koepp, MD, PhD – <i>UCL Queen Square Institute of Neurology</i><br/>
 Carrie McDonald, PhD – <i>University of California San Diego</i><br/>
 Victoria Morgan, PhD – <i>Vanderbilt University</i><br/>
+Sami Obaid, MD, PhD, FRCSC – <i>Centre hospitalier de l'Université de Montréal</i><br/>
 Frédéric Schaper, MD, PhD – <i>Brigham and Women's Hospital / Harvard Medical School</i><br/>
 Leigh Sepeta, PhD – <i>George Washington University</i><br/>
 Meneka Kaur Sidhu, MD, PhD – <i>University College London</i><br/>
