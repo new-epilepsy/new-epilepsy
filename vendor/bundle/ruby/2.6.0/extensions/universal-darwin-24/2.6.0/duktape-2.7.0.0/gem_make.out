@@ -1,0 +1,79 @@
+current directory: /Users/lars2776/repos/new-epilepsy/vendor/bundle/ruby/2.6.0/gems/duktape-2.7.0.0/ext/duktape
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20250618-15341-a9lh00.rb extconf.rb
+checking for rb_sym2str()... yes
+creating Makefile
+
+current directory: /Users/lars2776/repos/new-epilepsy/vendor/bundle/ruby/2.6.0/gems/duktape-2.7.0.0/ext/duktape
+make "DESTDIR=" clean
+
+current directory: /Users/lars2776/repos/new-epilepsy/vendor/bundle/ruby/2.6.0/gems/duktape-2.7.0.0/ext/duktape
+make "DESTDIR="
+compiling duktape.c
+compiling duktape_ext.c
+duktape_ext.c:695:23: warning: '(' and '{' tokens introducing statement expression appear in different macro expansion contexts [-Wcompound-token-split-by-macro]
+  695 |   id_complex_object = rb_intern("complex_object");
+      |                       ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1826:23: note: expanded from macro 'rb_intern'
+ 1826 |         __extension__ (RUBY_CONST_ID_CACHE((ID), (str))) : \
+      |                       ^
+duktape_ext.c:695:23: note: '{' token is here
+  695 |   id_complex_object = rb_intern("complex_object");
+      |                       ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1826:24: note: expanded from macro 'rb_intern'
+ 1826 |         __extension__ (RUBY_CONST_ID_CACHE((ID), (str))) : \
+      |                        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1811:5: note: expanded from macro 'RUBY_CONST_ID_CACHE'
+ 1811 |     {                                                   \
+      |     ^
+duktape_ext.c:695:23: warning: '}' and ')' tokens terminating statement expression appear in different macro expansion contexts [-Wcompound-token-split-by-macro]
+  695 |   id_complex_object = rb_intern("complex_object");
+      |                       ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1826:24: note: expanded from macro 'rb_intern'
+ 1826 |         __extension__ (RUBY_CONST_ID_CACHE((ID), (str))) : \
+      |                        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1816:5: note: expanded from macro 'RUBY_CONST_ID_CACHE'
+ 1816 |     }
+      |     ^
+duktape_ext.c:695:23: note: ')' token is here
+  695 |   id_complex_object = rb_intern("complex_object");
+      |                       ^~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1826:56: note: expanded from macro 'rb_intern'
+ 1826 |         __extension__ (RUBY_CONST_ID_CACHE((ID), (str))) : \
+      |                                                        ^
+duktape_ext.c:731:31: warning: '(' and '{' tokens introducing statement expression appear in different macro expansion contexts [-Wcompound-token-split-by-macro]
+  731 |   rb_ivar_set(cComplexObject, rb_intern("duktape.instance"), oComplexObject);
+      |                               ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1826:23: note: expanded from macro 'rb_intern'
+ 1826 |         __extension__ (RUBY_CONST_ID_CACHE((ID), (str))) : \
+      |                       ^
+duktape_ext.c:731:31: note: '{' token is here
+  731 |   rb_ivar_set(cComplexObject, rb_intern("duktape.instance"), oComplexObject);
+      |                               ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1826:24: note: expanded from macro 'rb_intern'
+ 1826 |         __extension__ (RUBY_CONST_ID_CACHE((ID), (str))) : \
+      |                        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1811:5: note: expanded from macro 'RUBY_CONST_ID_CACHE'
+ 1811 |     {                                                   \
+      |     ^
+duktape_ext.c:731:31: warning: '}' and ')' tokens terminating statement expression appear in different macro expansion contexts [-Wcompound-token-split-by-macro]
+  731 |   rb_ivar_set(cComplexObject, rb_intern("duktape.instance"), oComplexObject);
+      |                               ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1826:24: note: expanded from macro 'rb_intern'
+ 1826 |         __extension__ (RUBY_CONST_ID_CACHE((ID), (str))) : \
+      |                        ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1816:5: note: expanded from macro 'RUBY_CONST_ID_CACHE'
+ 1816 |     }
+      |     ^
+duktape_ext.c:731:31: note: ')' token is here
+  731 |   rb_ivar_set(cComplexObject, rb_intern("duktape.instance"), oComplexObject);
+      |                               ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:1826:56: note: expanded from macro 'rb_intern'
+ 1826 |         __extension__ (RUBY_CONST_ID_CACHE((ID), (str))) : \
+      |                                                        ^
+4 warnings generated.
+linking shared-object duktape_ext.bundle
+ld: warning: search path '/AppleInternal/Library/BuildRoots/1c8f7852-1ca9-11f0-b28b-226177e5bb69/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.Internal.sdk/usr/local/lib' not found
+
+current directory: /Users/lars2776/repos/new-epilepsy/vendor/bundle/ruby/2.6.0/gems/duktape-2.7.0.0/ext/duktape
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 duktape_ext.bundle ./.gem.20250618-15341-1gr0yg6
