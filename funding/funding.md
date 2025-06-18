@@ -8,6 +8,15 @@ sitemap: false
 permalink: /funding/
 ---
 
-We are working very hard to offer different funding opportunities for NEW members. Stay tuned for further information about funding.
+<p><b>NEW is kindly supported by:</b></p><br>
+<div style="text-align: center;">
+  <p>The Centre of Excellence in Epilepsy at The Neuro (CEEN)</p>
+  <div style="display: inline-block; width: 50%;">
+    <img src="{% link assets/img/neuro_logo.png %}" alt="" style="width: 100%;" />
+  </div>
+</div>
 
-![](https://github.com/new-epilepsy/website-extras/blob/main/extra-imgs/brokenpiggy.png?raw=true){: width="333"}{:style="display:block; margin-left:auto; margin-right:auto"}
+<br><br>
+
+We are also working very hard to offer different funding opportunities for NEW members. Stay tuned for further information about funding.
+
